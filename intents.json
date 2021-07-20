@@ -1,0 +1,462 @@
+{"intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+        
+      ],
+      "responses": [
+        "Hi ! How can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye"
+      ],
+      "responses": [
+        "Have a nice day!"
+      ]
+    },
+
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thank's a lot!"
+      ],
+      "responses": [
+        "Any time!"
+      ]
+    },
+
+    {
+      "tag": "nonincenrollment",
+      "patterns": [
+        "Can I enroll at NEU even though Im not a member of the Iglesia Ni Cristo?",
+        "Can non INC member enroll in neu",
+        "Does non INC enrollee can still enroll in new era university",
+        "Is new era accepting non inc member"
+      ],
+      "responses": [
+        "Yes.New Era University is a non-sectarian instituion of learning; meaning that regardless of religious beliefs, if anyone wants to study in NEU and is ready to follow the rules and regulations implemented here, that person can be accepted as a student. What is important to note is that NEU is known for its rigid discipline, and it is expected that ALL students will follow the discipline implemented herein. "
+      ]
+    },
+
+    {
+      "tag": "tuitionfee",
+      "patterns": [
+        "How much is the tuition fee?",
+        "Tuition fee in new era university",
+        "How much is the tuition in neu",
+        "New Era University tuition fee"
+      ],
+      "responses": [
+        "Inasmuch as we would want to answer your question here, the answer will depend on what course you will take, how many subjects you plan to enroll in a given semester, and what discounts are to be applied, if any. So, it is best for you to ask our ACCOUNTING DEPARTMENT. You may contact them by calling (02)8981-4221 to 4231 local 3877 or sending an email to accounting@neu.edu.ph"
+      ]
+    },
+
+    {
+      "tag": "neumission",
+      "patterns": [
+        "what is the NEU Mission"
+       ],
+      "responses": [
+        "NEU MISSION</br></br>- Provide quality education anchored on Christian values with the prime purpose of bringing honor and glory to God."
+      ]
+    },
+
+
+    {
+      "tag": "neuvision",
+      "patterns": [
+        "NEU Vision"
+       ],
+      "responses": [
+        "NEU VISION</br></br>- A world-class Institution of learning with a unique Christian culture of excellence, discipline, and service to humanity."
+      ]
+    },
+
+
+    {
+      "tag": "neugoalsandobjectives",
+      "patterns": [
+        "NEU Goals and Objectives"
+       ],
+      "responses": [
+        "NEU GOALS and OBJECTIVES</br></br>- Impart value-laden education to the total development of man.</br>- Offer curricula responsive to the needs of the time.</br>- Optimize learning through the adoption and utilization of appropriate instructional methods and resources.</br>- Propel institutional development through the conduct of useful and significant researches.</br>- Extend outreach services which promote self-help in the community.</br>- Promote access to non-conventional higher education and basic education programs.</br>- Develop servant leaders among staff, faculty members, and administrators.</br>- Produce God-fearing, competent, and disciplined graduates."
+      ]
+    },
+
+    {
+      "tag": "enrollmentrequirements",
+      "patterns": [
+        "How to enroll?",
+        "What do i need to enroll?",
+        "Enrollment requirments in neu?",
+        "What are the requirements to enroll",
+        "Procedures of enrollment in new era university",
+        "What are the requirements and procedures for enrolling online",
+        "What are the process of enrollment for shiftee students",
+        "Requirements for transferee students in neu",
+        "Enrollment requirements for college students in neu",
+        "What are the requirements in enrolling in neu"
+      ],
+      "responses": [
+        "- Admission Procedure NEU SHS Graduates</br>1. Request for your Temporary Student ID thru sending the following details to admissionrequirements@neu.edu.ph</br></br>- Name: (Last Name, First Name, Middle Name)</br>- Course Applying:</br>- Gender:</br>- Year Graduated:</br></br>2. Once you received the Temporary Username and Password thru email, You can now edit your Personal Information Sheet thru this link https://automate.neu.edu.ph/PARENTS_</br>STUDENTS/parents_student_index.htm NEU Automate for Application</br></br> i. Enter your log-in credentials (username and password)</br> ii. Click Personal Info</br> iii. Click Edit Personal Info</br> iv. Fill-out the General Student Personal Information Sheet (Special characters are not allowed)</br> v. Click Proceed and Print Personal Info then Save/Print as Pdf</br></br> 3. Submit all the followng requirements thru this link https://docs.google.com/forms/d/1b8gPiFVxr</br>y6ep6bjloOQLi5DbubRsLGYxAT0our_vKM/viewform?edit_requested=true Admission Requirements Submission Link</br></br> Admission Requirements for Freshmen</br> - General Student Personal Information Sheet (GSPIS)</br> - PSA Authenticated Birth Certificate</br>  - Senior High School Report Card (F-138) with Graduated Remarks</br> - 2x2 picture with white background</br></br> Admission Requirements for Transferees and Graduate School</br> - General Student Personal Information Sheet (GSPIS)</br> - PSA Authenticated Birth Certificate</br> - Transcript of Records</br> - Honorable Dismissal / Transfer Credential Certificate</br> - 2x2 picture with white background</br></br> 4. Upon receipt of the advice from the College Admissions Office on the Approval of admission, you may now log-in thru this link https://automate.neu.edu.ph/PARENTS_</br>STUDENTS/parents_student_index.htm NEU Automate for Student Enrollment using the log-in credentials (Username and Password) that you have created in filling out your General Information Sheet. </br></br>- Admission Procedure for Non-NEU SHS Graduates</br>1. Fill out the General Personal Information Sheet thru this link https://automate.neu.edu.ph/PARENTS_</br>STUDENTS/parents_student_index.htmNEU Automate for Application</br></br> i. Click NEW USER? CLICK HERE</br> ii. Choose Application Type (Freshmen/Transferee)</br> iii. Click REGISTER</br> iv. Fill-out the General Student Personal Information Sheet (Special characters are not allowed)</br> v. Click PROCEED and take note of the TEMPORARY ID NUMBER, USERNAME and PASSWORD.</br> vi. DOWNLOAD the General Personal Information Sheet by Printing it as PDF file to save it.</br></br> 2. Submit all the following requirements thru this link https://docs.google.com/forms/d/1b8gPiFVxry6ep6bjloO</br>QLi5DbubRsLGYxAT0our_vKM/viewform?edit_requested=trueAdmission Requirements Submission Link</br></br>Admission Requirements for Freshmen</br> - General Student Personal Information Sheet (GSPIS)</br> - PSA Authenticated Birth Certificate</br> -  Senior High School Report Card (F-138) with Graduated Remarks</br> - 2x2 picture with white background</br></br> Admission Requirements for Transferees and Graduate School</br> - General Student Personal Information Sheet (GSPIS)</br> - PSA Authenticated Birth Certificate</br> - Transcript of Records</br> - Honorable Dismissal / Transfer Credential Certificate</br> - 2x2 picture with white background</br></br> 3. Upon receipt of the advice from the College Admissions Office on the Approval of admission, you may now log-in thru this link NEU https://automate.neu.edu.ph/PARENTS_</br>STUDENTS/parents_student_index.htm Automate for Student Enrollment using the log-in credentials (Username and Password) that you have created in filling out your General Information Sheet.</br></br>- Tertiary Enrollment Procedure</br> STEP 1 ADVISING</br></br> - Log in to SchooAutomate (https://automate.neu.edu.ph).</br>- Click Parents/Students. </br>- New Students : Use your TEMPORARY ID Number as LOGIN ID and PASSWORD.</br>- Old Students : Use your Username and Password.</br>- Click the Enrollment tab then Online Advising.</br>- Click Schedule to choose the schedule and then click PROCEED.</br>- Click Save and Take note of the assessment of fees and amount to be paid.</br></br>STEP 2 PAYMENT </br></br>- Proceed to https://payment.neu.edu.ph for payment instruction.</br>- The PROOF OF PAYMENT must be submitted within 24 HOURS from the time Online Advising/Reservation was done.</br></br>STEP 3 COM / OR</br></br>- For OLD STUDENTS,please chech your School/Automate account. If payment has been posted, your enrollment is confirmed and you will see a copy of your Certificate of Matriculation in the Fees Paid during Enrollment tab. </br>- For NEW STUDENTS, upon receipt of a copy of you officical receipt (OR), please take notes of your permanent student ID number (20-xxxxxx-xxx) located on the upper part.</br>- Please use this Student ID number including hypens as username and password to access your School Automate account.</br></br>STEP 4 START OF CLASSES </br></br>- Follow NEU Website Media Accounts for advisory on the start of regular/online classes.</br></br>- Foreign Students</br>1. Certificate of Eligibility</br> </br>Provide Certificate of Eligibility to study in the Philippines from Department of Education</br></br>2. Letter of Intent</br></br> (1) For INC Member - Certificate of Membership</br>(2) For NON-INC Member - Letter of Intent from the applicant and Endorsement Letter from the INC member and a Local Resident Minister of INC Locale nearest to applicant's residence attesting to his/her being good and law abiding citizen.</br></br>3. Scholastic Records/Transfer of Credentials</br></br>Submit Scholastic Records/Transfer of Credentials duly authenticated by the Philippine Consulate General or Philippine Embassy with English Translation, if written in other foreign language SEEN and NOTED stamp is not acceptable)</br></br>4. Authenticated copy of Good Moral Certificate (from previous school)</br></br>5. 2x2 Identical ID Pictures</br> </br>Six (6) copies of 2x2 Identical ID Pictures white background with printed name and signature of applicant at the back.</br></br>6. Birth Certificate of Applicant</br></br> (1) If born abroad with foreign citizenship - Birth Certificate duly authenticated by the Philippine Consulate General or Philippine Embassy</br> (2) If born abroad with Filipino Parent/s - Philippine Statistics Authority Report of Birth,</br> (3) If born in the Philippines with Filipino Parent/s - Birth certificate duly authenticated by the Philippine Statistics Authority (PSA)</br></br>- IS-K to Grade 10 New Student Admission & Enrollment</br> 1. To apply for admission, please click this application form https://docs.google.com/forms/d/e/1FAIpQLSeWg</br>qgelVYgyXujiA4mcWkphb_0inUZdRc7jl85pH7vz8zIBg/viewform, fill up all the necessary information and upload admission requirements (Students/Pupils Progress Report card (F-138), PSA Birth Certificate and latest ID photo). Upon submission, you will receive an email notification confirming receipt of your application and requirements.</br></br>2. Upon receipt of advise from the Integrated School Admissions Office on the approval of admission and assessed amount of matriculation fees, proceed to https://payment.neu.edu.ph for payment instructions.</br></br> 3. Upon confirmation of your payment, you will receive through email a copy of your Official Receipt (OR) and Certificate of Matriculation (COM).</br></br> 4. For NEW STUDENTS, your permanent student ID number (21-xxxxx-xxx) can be found on the upper part of the OR or on the COM.</br></br> 5. Please use this student ID number (INCLUDING HYPHENS) as username and password to access your SchoolAutomate account (https://automate.neu.edu.ph-> PARENTS/STUDENTS)</br>After logging in, create your own login ID and password. Make sure that this is successful. Log in using the new login ID and password. Login ID will have NEU as prefix. IMPORTANT: Please take care to remember your Login ID and password.</br></br> 6. Follow NEU website for advisory on Start of Classes</br></br>- IS-SHS New Student Admission & Enrollment></br>1. To apply for admission, please click this application form https://docs.google.com/forms/d/e/1FAIpQLSd1UgKh</br>DFSmY4TqkhGtKfPp3uCAYqQKSbqKrrLcgFLGaXz92g/viewform, fill up all the necessary information and upload admission requirements (Students/Pupils Progress Report card (F-138), PSA Birth Certificate and latest ID photo). Upon submission, you will receive an email notification confirming receipt of your application and requirements.</br></br>2. Upon receipt of advise from the Integrated School Admissions Office on the approval of admission and assessed amount of matriculation fees, proceed to https://payment.neu.edu.ph for payment instructions.</br></br>3. Upon confirmation of your payment, you will receive through email a copy of your Official Receipt (OR) and Certificate of Matriculation (COM).</br>For NEW STUDENTS, your permanent student ID number (21-xxxxx-xxx) can be found on the upper part of the OR or on the COM. Please use this student ID number (INCLUDING HYPHENS) as username and password to access your SchoolAutomate account (https://automate.neu.edu.ph-> PARENTS/STUDENTS)</br>After logging in, create your own login ID and password. Make sure that this is successful. Log in using the new login ID and password. Login ID will have NEU as prefix.</br></br> 4. Follow NEU website for advisory on Start of Classes "
+      ]
+    },
+
+    {
+      "tag": "enrollmentdate1stsem",
+      "patterns": [
+       "When is the enrollment date for 1st semester",
+       "When is the enrollment for 1st sem",
+       "When is the enrollment for 1st sem in neu",
+       "Start of enrollment for first semester",
+       "Enrollment date of 1st semester",
+       "Enrollment date of first sem",
+       "Starting date of 1st sem enrollment",
+       "What is the date of enrollment for 1st sem",
+       "First semester enrollment date in new era university",
+       "First semester enrollment date in neu",
+       "Starting date of enrollment for first sem",
+       "First semester date of enrollment",
+       "Duration of enrollment for first semester"
+      ],
+      "responses": [
+        "The start of Enrollemt for 1st Semester SY: 2020 - 2021 is from June 15 2021 - October 3 2021"
+      ]
+    },
+
+    {
+      "tag": "enrollmentdate2ndsem",
+      "patterns": [
+       "When is the enrollment date for 2nd semester",
+       "When is the enrollment for 2nd sem",
+       "When is the enrollment for 2nd sem in neu",
+       "Start of enrollment for second semester",
+       "Enrollment date of 2nd semester",
+       "Enrollment date for second sem ",
+       "Starting date of 2nd sem enrollment",
+       "What is the date of enrollment for 2nd sem",
+       "Duration of second sem enrollment date",	
+       "Starting date of enrollment for second sem",
+       "Second semester enrollment date neu",
+       "Second semester date of enrollment in new era university"
+      ],
+      "responses": [
+        "The start of Enrollemt for 2nd Semester SY: 2020 - 2021 is from February 21 2021 - March 7 2021"
+      ]
+    },
+
+    {
+      "tag": "holidaybreak",
+      "patterns": [
+        "How to know all the upcoming holidays?",
+        "What are the holidays in school year 2020 to 2021",
+        "Holidays in school year 2020 - 2021",
+        "Date of holidays for 2020 - 2021",
+        "What are the holidays in neu"
+      ],
+      "responses": [
+        "Holiday Breaks for SY : 2020 - 2021</br></br>National Teachers' Day</br>October 5 2020</br></br>Special Holiday - Church Holiday</br>October 31 2020</br></br>Special Non-Working Day</br>November 1 2020</br></br>Additional Special Non-Working Day</br>November 2 2020</br></br>Regular Holiday - Bonifacio Day </br>November 30 2020</br></br>Special Non-Working Day</br>December 8 2020</br></br>HOLIDAY BREAK</br>December 20 2020 - January 3 2021</br></br>Additional Special Non-Working Day</br>December 24 2020</br></br>Regular Holiday</br>December 24 2020</br></br>Regular Holiday - Rizal Day</br>December 30 2020</br></br>Special Non-Working Day - Last Day of the Year</br>December 31 2020</br></br>Regular Holiday - New Year's Day</br>January 1 2021</br></br>Special Holiday - Church Holiday</br>January 2 2021</br></br>Special Non-Working Day - Chinese New Year</br>February 12 2021</br></br>Special Non-Working Day EDSA People Power Revolution Anniversary</br>February 25 2021</br></br> Regular Holiday</br>April 1 - 3 2021</br></br>Regular Holiday - Araw ng Kagitingan</br>April 9 2021</br></br>Regular Holiday - Labor Day</br>May 1 2021</br></br>Special Holiday - Church Holiday</br>May 10 2021</br></br>Tentative - National Holiday</br>May 13 2021</br></br>Regular Holiday - Independence Day</br>June 12 2021 "
+      ]
+    },
+
+    {
+      "tag": "courseofferedinundergraduateprogram",
+     "patterns": [
+        "What are the courses offered in undergraduate program",
+        "Courses offered for college students",
+        "What are the courses offered in college",
+        "List of courses offered in college",
+        "List of undergraduate programs in new era university",
+        "Programs offered in college",
+        "What are the offered courses in New Era University",
+        "What are the offered courses in NEU",
+        "What are the courses in NEU",
+        "Undegraduate programs offered in neu",
+        "College courses in new era university"
+      ],
+      "responses": [
+        "These are the offered Undergrduate Programs in NEW ERA UNIVERSITY </br></br> Select from the choices below and type the Specific Program to show the offered courses from each Programs</br></br>Accountancy</br></br>Agriculture</br></br>Arts and Sciences</br></br>Business Administration</br></br>Communication</br></br>Computer Studies</br></br>Criminology</br></br>Education</br></br>Engineering and Architecture</br></br>International Relations</br></br>Medical Technology</br></br>Medicine</br></br>Midwifery</br></br>Music</br></br>Nursing</br></br>Physical Therapy</br></br>Respiratory Therapy"
+      ]
+    },
+
+    {
+      "tag": "accountancy",
+      "patterns": [
+        "Accountancy"
+      ],
+      "responses": [
+        "Bachelor of Science in Accountancy</br>Available in: Main Campus, General Santos, Batangas</br></br>Bachelor of Science in Accounting Information System</br>Available in: Main Campus"
+      ]
+    },
+
+    {
+      "tag": "artsaandsciences",
+      "patterns": [
+        "Arts and Sciences"
+      ],
+      "responses": [
+        "Bachelor of Arts in Economics</br>Available in: Main Campus</br></br>Bachelor of Science in Psychology</br>Available in: Main Campus</br></br>Bachelor of Arts in Public Administration</br>Available in: Main Campus</br></br>Bachelor of Science in Biology</br>Available in: Main Campus</br></br>AB Political Science</br>Available in: Main Campus"
+      ]
+    },
+    {
+      "tag": "bussinessadministration",
+      "patterns": [
+        "Business Administration"
+      ],
+      "responses": [
+        "Bachelor of Science in Real Estate Management</br>Available in: Main Campus</br></br>Bachelor of Science in Business Administration major in Marketing Management</br>Available in: Main Campus</br></br>Bachelor of Science in Business Administration major in Human Resource Development and Management</br>Available in: Main Campus</br></br>Bachelor of Science in Business Administration major in Legal Management</br>Available in: Main Campus</br></br>Bachelor of Science in Entrepreneurship</br>Available in: Main Campus</br></br>Bachelor of Science in Business Administration major in Financial Management</br>Available in: Main Campus"
+      ]
+    },
+    {
+      "tag": "communication",
+      "patterns": [
+        "Communication"
+      ],
+      "responses": [
+        "Bachelor of Arts in Communication</br>Available in: Main Campus</br></br>Bachelor of Arts in Broadcasting</br>Available in: Main Campus</br></br>Bachelor of Arts in Journalism</br>Available in: Main Campus"
+      ]
+    },
+    {
+      "tag": "computerstudies",
+      "patterns": [
+        "Computer Studies"
+      ],
+      "responses": [
+        "Bachelor of Library Information Science</br>Available in: Main Campus</br></br>Bachelor of Science in Information Technology</br>Available in: Main Campus</br></br>Bachelor of Science in Information Systems</br>Available in: Main Campus</br>Available in: Pampanga Campus</br></br>Bachelor of Science in Entertainment and Multimedia Computing major in Game Development</br>Available in: Main Campus</br></br>Bachelor of Science in Computer Science</br>Available in: Main Campus"
+      ]
+    },
+    {
+      "tag": "criminology",
+      "patterns": [
+        "Criminology"
+      ],
+      "responses": [
+        "Bachelor of Criminology</br>Available in: Main Campus"
+      ]
+    },
+    {
+      "tag": "education",
+      "patterns": [
+        "Education"
+      ],
+      "responses": [
+        "Bachelor of Secondary Education Major in Filipino</br>Available in: Main Campus</br></br>Bachelor of Secondary Education Major in Mathematics</br>Available in: Main Campus</br></br>Bachelor of Secondary Education Major in Biological Sciences</br>Available in: Main Campus</br></br>Bachelor of Secondary Education Major in Physical Sciences</br>Available in: Main Campus</br></br>Bachelor of Elementary Education specialization in General Sciences</br>Available in: Main Campus</br></br>Bachelor of Elementary Education specialization in Special Education</br>Available in: Main Campus</br></br>Bachelor of Elementary Education specialization in Content Courses</br>Available in: Main Campus</br></br>Bachelor of Secondary Education Major in Technology and Livelihood Education</br>Available in: Main Campus</br></br>Bachelor of Elementary Education specialization in Pre-School Education</br>Available in: Main Campus</br></br>Bachelor of Secondary Education Major in MAPE</br>Available in: Main Campus</br></br>Bachelor of Secondary Education Major in English</br>Available in: Main Campus</br></br>Bachelor of Secondary Education Major in Social Studies</br>Available in: Main Campus"
+      ]
+    },
+    {
+      "tag": "engineeringandarchitecture",
+      "patterns": [
+        "Engineering and Architecture"
+      ],
+      "responses": [
+        "Bachelor of Science in Astronomy</br>Available in: Main Campus</br></br>Bachelor of Science in Industrial Engineering</br>Available in: Main Campus</br></br>Bachelor of Science in Mechanical Engineering</br>Available in: Main Campus</br></br>Bachelor of Science in Architecture</br>Available in: Main Campus</br></br>Bachelor of Science in Electronics Engineering</br>Available in: Main Campus</br></br>Bachelor of Science in Electrical Engineering</br>Available in: Main Campus</br></br>Bachelor of Science in Civil Engineering</br>Available in: Main Campus"
+      ]
+    },
+    {
+      "tag": "medicaltechnology",
+      "patterns": [
+        "Medical Technology"
+      ],
+      "responses": [
+        "Bachelor of Science in Medical Technology</br>Available in: Main Campus"
+      ]
+    },
+    {
+      "tag": "midwifery",
+      "patterns": [
+        "Midwifery"
+      ],
+      "responses": [
+        "Diploma in Midwifery</br>Available in: Main Campus"
+      ]
+    },
+    {
+      "tag": "music",
+      "patterns": [
+        "Music"
+      ],
+      "responses": [
+        "Music Prepartory and Extended Studies</br>Available in: Main Campus</br></br>Bachelor of Music Major in Choral Conducting</br>Available in: Main Campus</br></br>Bachelor of Music Major in Piano</br>Available in: Main Campus</br></br>Bachelor of Music Major in Voice</br>Available in: Main Campus</br></br>Bachelor of Music Major in Music Education</br>Available in: Main Campus"
+      ]
+    },
+    {
+      "tag": "nursing",
+      "patterns": [
+        "Nursing"
+      ],
+      "responses": [
+        "Bachelor of Science in Nursing</br>Available in: Main Campus"
+      ]
+    },
+    {
+      "tag": "physicaltherapy",
+      "patterns": [
+        "Physical Therapy"
+      ],
+      "responses": [
+        "Bachelor of Science in Physical Therapy</br>Available in: Main Campus"
+      ]
+    },
+    {
+      "tag": "respiratorytherapy",
+      "patterns": [
+        "Respiratory Therapy"
+      ],
+      "responses": [
+        "Bachelor of Science in Respiratory Therapy</br>Available in: Main Campus"
+      ]
+    },
+
+
+    {
+      "tag": "paymentsoption",
+      "patterns": [
+        "Payment option in New Era University",
+        "Payment option in NEU",
+        "How to pay for our existing balance",
+        "Mode of payment in paying balance ",
+        "How can i pay for my balance",
+        "Can we use credit card?",
+        "Can i pay cash?"
+      ],
+      "responses": [
+        "Due to pandemic New Era University is only accepting through Bank deposit and via GCash</br></br>BDO Bank</br></br>- Account Name: New Era University</br>- Account Number: 006450042787 (BDO Tagumpay Branch)</br></br> Please visit : https://payment.neu.edu.ph/ and Send a digital copy of the deposit slip or any proof of payment.</br></br>GCash</br></br>a. Click bank transfer, then click BDO.</br>Fill up the info:</br> - Account name: New Era University</br> - Account number: 006450042787</br>c. Send receipt to: </br> d. Then click send money </br></br> Please visit : https://payment.neu.edu.ph/ and Send a digital copy of the deposit slip or any proof of payment."
+      ]
+    },
+    
+    {
+      "tag": "schoolautomateaccount",
+      "patterns": [
+        "How to know the school automate password",
+        "What is the default username and pass of automate account",
+        "I cannot access or log in to my neu automate account.",
+        "I cant open my NEU Automate account",
+        "Forgot the USERNAME and PASSWORD of my automate account .",
+        "It says invalid log in in my neu automate account",
+        "How to reset neu automate account.",
+        "I forgot my automate password.",
+        "I cannot access my automate account",
+        "What is the password of my automate",
+        "Invalid log in using student number as username.",
+        "I would like to reset my neu automate account"
+      ],
+      "responses": [
+        "If there are any concerns regarding the School Automate feature , like lost username / password, Kindly email csd@neu.edu.ph.</br></br>For those students who would create their NEW ACCOUNT in Automate</br></br>Kindly visit the NEU Automate : https://automate.neu.edu.ph/PARENTS_</br>STUDENTS/parents_student_index.htm and click the  (New User? Click here to Register.)"
+      ]
+    },
+
+    {
+      "tag": "universityemail",
+      "patterns": [
+        "what is the default username and password of our university Email",
+        "how to know our username and password in our university email",
+        "My Neu email doesnt work",
+        "Need my neu email to be able to join in my class via google meet.",
+        "I dont have access on my NEU Gmail account",
+        "My university email account is invalid",
+        "Im requesting for my neu gmail acc",
+        "what is the username and password of our university Email",
+        "How to reset password in neu email",
+        "I do not have access in my neu email"
+      ],
+      "responses": [
+        "USERNAME : </br>FirstName(lower case).LastName(lower case)@neu.edu.ph</br></br>PASSWORD :</br>password in AUTOMATE</br></br>Or Kindly email New Era University CSD for further assistance : csd@neu.edu.ph if you still dont have your University Email"
+      ]
+    },
+
+    {
+      "tag": "neuvleaccount",
+      "patterns": [
+	      "Cannot access to neu vle",
+        "I cant access my neu vle account",
+      	"Subjects does not completely reflect on neu vle",
+      	"Cannot Log in using my student number as password and Username",
+      	"Cannot acces to neu vle using the correct credentials even though i’m already enrolled. ",
+      	"Lagging and issues on neu vle whenever I take my quizzes or assignments.",
+        "Enrolled but no subject in my dashboard.",
+        "Incomplete Subject Applied in my current account on VLE.",
+        "No subjects in NEU VLE.",
+        "My subjects are missing.",
+        "How to ask for new password in neu vle account",
+        "Can't open my VLE account.",
+        "I can’t access my subjects or courses.",
+        "There is no subjects showing on my VLE ",
+        "There are no subjects appearing in  my dashboard.",
+        "My vle account is nott accessible.",
+        "What is the username and password of our neu vle account",
+        "Default username and password of neu vle account",
+      	"Can the time limit be extended on exams or quizzes? As some students are only using cellular data and having connection issues."
+      ],
+      "responses": [
+        "For Student's who would like to :</br></br>ACCESS NEU VLE Account</br>- To gain access to NEUVLE, you need an account with username and password.</br>- Go to https://neuvle.neu.edu.ph.</br>- For your NEUVLE account, the DEFAULT USERNAME is your STUDENT NUMBER and the DEFAULT PASSWORD is your SchoolAutomate PASSWORD.</br></br>RESET NEU VLE Account</br>-Please ensure that your SchoolAutomate account is ACTIVE and ACCESSIBLE, otherwise request an account reset through the following:</br></br>Main Campus (Quezon City)</br>- PreSchool & Elementary: elem@neu.edu.ph</br></br>Junior High School: jhs@neu.ed</br>- Junior High School: jhs@neu.edu.ph</br></br>- Senior High School: shs@neu.edu.ph</br></br>- Tertiary: csd@neu.edu.ph</br></br>Other Campuses: </br>Pampanga Campus: registrarpampanga@neu.edu.ph</br></br>Lipa City Campus: registrarlipa@neu.edu.ph</br></br>General Santos City Campus: registrargensan@neu.edu.ph</br></br>SUBJECTS IN NEU VLE</br>- Please contact your Professor in the Subject stated</br>- Or send an email to your respective Department"
+      ]
+    },
+
+    {
+      "tag": "scholarship",
+      "patterns": [
+        "How to apply for scholarship in New Era University",
+        "How do i apply for scholarship in New Era University",
+        "Can i apply for scholarship in NEU",
+        "How to apply for scholarship",
+        "Scholarship requirements in neu",
+        "What are the requirements in requesting for scholarship in neu"
+    ],
+      "responses": [
+        "Kindly email New Era University school registrar for further assistance : registrar@neu.edu.ph"
+      ]
+    },
+  
+    {
+      "tag": "graduation",
+      "patterns": [
+        "When do i apply for graduation?",
+        "Is there a graduation fee?",
+        "What are the requirements for graduating students",
+        "Is the coming graduation going to be physical or online?",
+        "When will i receive my diploma?",
+        "Where do i get my cap and gown?",
+        "What are the requirements for graduating with honors?",
+        "Where do i get my graduation photo?",
+        "What will happen if I can't attend my graduation ceremony?",
+        "I'm hoping to graduate soon – when will I receive some information about graduation?",
+        "Where are the graduation ceremonies held?",
+        "How long do graduation ceremonies take?",
+        "what do i do if i missed the deadline to apply to graduate?",
+        "I have financial holds on my records, can i still graduate?",
+        "Graduation requirements in neu",
+        "When is the start of graduation",
+        "What are the graduation requirements in neu"
+      ],
+      "responses": [
+        "Kindly email New Era University school registrar for further assistance : registrar@neu.edu.ph</br></br>Or Email your perspective Department"
+      ]
+    },
+    
+    {
+      "tag": "neucalendarsy2020to2021",
+      "patterns": [
+        "school calendar for sy 2020",
+        "calendar for school year 2021",
+        "academic calendar For 2021 2021"
+      ],
+      "responses": [
+        "1ST SEMESTER : ACADEMIC YEAR 2020 - 2021</br></br>ENROLLMENT PERIOD</br>June 15 2020 - October 3 2020</br></br>START OF CLASSES</br>October5 2020</br></br>National Teachers' Day</br>October 5 2020</br></br>Special Holiday - Church Holiday</br>October 31 2020</br></br>Special Non-Working Day</br>November 1 2020</br></br>Additional Special Non-Working Day</br>November 2 2020</br></br>Regular Holiday - Bonifacio Day </br>November 30 2020</br></br>MID-TERM EXAMINATIONS</br>December 1 - 5 2020</br></br>Special Non-Working Day</br>December 8 2020</br></br>HOLIDAY BREAK</br>December 20 2020 - January 3 2021</br></br>Additional Special Non-Working Day</br>December 24 2020</br></br>Regular Holiday</br>December 24 2020</br></br>Regular Holiday - Rizal Day</br>December 30 2020</br></br>Special Non-Working Day - Last Day of the Year</br>December 31 2020</br></br>Regular Holiday - New Year's Day</br>January 1 2021</br></br>Special Holiday - Church Holiday</br>January 2 2021</br></br>RESUMPTION OF CLASSES</br>January 4 2021</br></br>Special Non-Working Day - Chinese New Year</br>February 12 2021</br></br>FINAL EXAMINATIONS</br>February 16 - 20 2021</br></br>SEMESTRAL BREAK</br>February 21 2021 - March 7 2021</br></br></br>2ND SEMESTER : ACADEMIC YEAR 2020 - 2021</br></br></br>ENROLLMENT PERIOD</br>February 22 2021 - March 6 2021</br></br>Special Non-Working Day EDSA People Power Revolution Anniversary</br>February 25 2021</br></br>START OF CLASSES </br>March 8 2021 </br></br>Regular Holiday</br>April 1 - 3 2021</br></br>Regular Holiday - Araw ng Kagitingan</br>April 9 2021</br></br>Regular Holiday - Labor Day</br>May 1 2021</br></br>MID-TERM EXAMINATIONS</br>May 5 - 8 and 11 2021</br></br>Special Holiday - Church Holiday</br>May 10 2021</br></br>Tentative - National Holiday</br>May 13 2021</br></br>Regular Holiday - Independence Day</br>June 12 2021</br></br>FINAL EXAMINATIONS For Graduating Students</br>June 15 - 19 2021</br></br>FINAL EXAMINATIONS</br>July 6 - 10 2021 "
+      ]
+    }
+  ]
+} 
